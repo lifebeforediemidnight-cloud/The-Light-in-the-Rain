@@ -1,0 +1,6 @@
+{
+  "name": "The Light in the Rain Storyboard",
+  "description": "High-fidelity interactive director storyboard, animatic player, acoustic synthesizer, and AI prompt assistant for the Bangalore slice-of-life anime 'Maleya Belaku'.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
